@@ -1,7 +1,7 @@
 README
 ======
 
-   A simple Gtk2 based piechart widget
+   A simple Gtk2 based piechart widget  
    Just invoke make && make install  
 
 AUTHORS
