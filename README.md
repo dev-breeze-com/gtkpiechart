@@ -7,7 +7,7 @@ README
 AUTHORS
 =======
 
-   Marnix Coppens (original author)
+   Marnix Coppens (original author)  
    Pierre Innocent ( dev@breezeos.com )  
    The Breeze::OS website: http://www.breezeos.com
 
